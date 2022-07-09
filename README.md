@@ -11,3 +11,5 @@
 现在测试加个图片。
 
 ![Head Photo](images/head%20photo.jpg)
+
+刚刚使用page发布成功，现在测试是否可以更新。
